@@ -9,35 +9,35 @@
     "repository": "",
     "env": {
       "BOT_TOKEN": {
-        "description": "6418802023:AAGBpFtOihuv5ffaVF_l7GqkxrrMOAGD0cA",
-        "value": ""
+        "description": "7982445331:AAHRPBFbpCpWcSV4Yl8svwhuwKGuHySTb90",
+        "value": "7982445331:AAHRPBFbpCpWcSV4Yl8svwhuwKGuHySTb90"
       },
       "API_ID": {
-        "description": "23480585",
-        "value": "23480585"
+        "description": "23671274",
+        "value": "23671274"
       },
       "API_HASH": {
-        "description": "23af64c0a4ba8c1f0c04e9be07d0ba68",
-        "value": "23af64c0a4ba8c1f0c04e9be07d0ba68"
+        "description": "09b9c07a023f7c13c2164f2b22bd937e",
+        "value": "09b9c07a023f7c13c2164f2b22bd937e"
       },
       "OWNER_ID": {
-        "description": "7306229091",
-        "value": "6748451207",
+        "description": "903077627",
+        "value": "903077627",
         "required": true
       },
       "DATABASE_NAME": {
-        "description": "mewadonlinestudys",
+        "description": "alexa123",
         "value": "drmbot",
         "required": false
       },
       "DATABASE_URL": {
-        "description": "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvod",
-        "value": "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvodak",
+        "description": "mongodb+srv://alexa123:Jjfmlt2VuvQlLnj5@cluster0.8twho.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://alexa123:Jjfmlt2VuvQlLnj5@cluster0.8twho.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "LOG_CHANNEL": {
-        "description": "-1002163136973",
-        "value": "-1001529584600"
+        "description": "-1002484508792",
+        "value": "-1002484508792"
       }
     },
     "addons": [],
