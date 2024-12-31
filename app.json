@@ -9,8 +9,8 @@
     "repository": "",
     "env": {
       "BOT_TOKEN": {
-        "description": "7982445331:AAHRPBFbpCpWcSV4Yl8svwhuwKGuHySTb90",
-        "value": "7982445331:AAHRPBFbpCpWcSV4Yl8svwhuwKGuHySTb90"
+        "description": "AAHRPBFbpCpWcSV4Yl8svwhuwKGuHySTb90",
+        "value": ""
       },
       "API_ID": {
         "description": "23671274",
